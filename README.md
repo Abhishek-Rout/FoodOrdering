@@ -1,6 +1,6 @@
 # Food Ordering Wep App
 
-##Pages Included
+## Pages Included
   1. Index Page
   2. Confirmation Page
   3. Show Page
